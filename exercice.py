@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
+import
 def square_root(number: int) -> float:
     # TODO completer la fonction
     return number ** 0.5
@@ -9,7 +9,7 @@ def square_root(number: int) -> float:
 
 def square(number: int) -> int:
     # TODO completer la fonction
-    return number
+    return number ** 2
 
 def main() -> None:
     for i in range(25):
